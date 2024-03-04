@@ -1,0 +1,1 @@
+idade = int(input('Digite a idade do nadador: '))
