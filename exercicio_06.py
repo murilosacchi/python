@@ -3,5 +3,7 @@ b = int(input('Digite o número inteiro B: '))
 
 if a > b:
     print(a)
-if b > a:
+elif b > a:
     print(b)
+elif a == b:
+    print('Os números são iguais')
