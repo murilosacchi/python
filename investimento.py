@@ -11,4 +11,4 @@ for i in range(1, ano + 1):
     val += juros
     total_juros += juros 
 
-print(f"Valor disponível ao final do período: {val:.2f}\nJuros auferidos no período: {total_juros:.2f}")
+print(f"Valor disponível ao final do período: {val:.2f} reais\nJuros auferidos no período: {total_juros:.2f} reais")
