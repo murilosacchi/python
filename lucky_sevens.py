@@ -1,6 +1,6 @@
 from random import *
 
-dinheiro = int(input('Digite e quantia de dinheiro que deseja ter para apostar: '))
+dinheiro = int(input('Digite a quantia de dinheiro que deseja ter para apostar: '))
 rodadas = 0
 vitorias = 0
 derrotas = 0
